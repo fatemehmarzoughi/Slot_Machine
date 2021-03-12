@@ -30,7 +30,7 @@ find_lto(CXX)
 # --------------------------------------------------------------------------------
 #                         Locate files (change as needed).
 # --------------------------------------------------------------------------------
-set(SOURCES src/Foo.cpp)
+set(SOURCES src/Foo.cpp src/Rand.cpp)
 set(TESTFILES tests/main.cpp)
 
 set(LIBRARY_NAME myLibrary)

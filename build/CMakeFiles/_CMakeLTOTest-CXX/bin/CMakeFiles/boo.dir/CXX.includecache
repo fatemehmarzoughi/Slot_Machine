@@ -1,0 +1,10 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/eaglet/gitHub/trelloTasks/Slot_Machine/build/CMakeFiles/_CMakeLTOTest-CXX/src/main.cpp
+
